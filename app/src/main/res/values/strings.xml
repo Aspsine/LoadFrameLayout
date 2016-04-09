@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LoadFrameLayout</string>
+    <string name="action_show_content">Show Content</string>
+    <string name="action_show_loading">Show Loading</string>
+    <string name="action_show_empty">Show Empty</string>
+    <string name="action_show_error">Show Error</string>
+</resources>

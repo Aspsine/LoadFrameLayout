@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.aspsine.loadframelayout.LoadFrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/loadFrameLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:emptyView="@layout/layout_empty"
+    app:errorView="@layout/layout_error"
+    app:loadingView="@layout/layout_loading"
+    tools:context=".apps.AppsActivity">
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+</com.aspsine.loadframelayout.LoadFrameLayout>
