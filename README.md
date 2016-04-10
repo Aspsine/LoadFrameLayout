@@ -1,6 +1,12 @@
 # LoadFrameLayout
 Android loading FrameLayout
 
+### Demo
+[Download](https://github.com/Aspsine/LoadFrameLayout/blob/master/art/demo.apk?raw=true)
+
+### ScreenShot
+![screen shot](https://github.com/Aspsine/LoadFrameLayout/blob/master/art/screenshot.gif?raw=true)
+
 ### How to use
 Step 1. Add the JitPack repository to your build file. Add it in your root build.gradle at the end of repositories:
 ```groovy
